@@ -13,7 +13,7 @@ keypoints:
 {% include links.md %}
 
 > ## Documentation
-> Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand the workings > of your lab. 
+> Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand the workings of your lab. 
 > This can include where your results and working data are saved. 
 {: .callout}
 
@@ -52,9 +52,9 @@ Ideally you want to document anything that a lab member coming on board would ne
 
 
 ## External Resources
-* [British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
-* [How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
-* [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
-* []()
+* [British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf){:target="_blank"}
+* [How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata){:target="_blank"}
+* [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/){:target="_blank"}
+
 
 
