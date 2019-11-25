@@ -3,11 +3,11 @@ title: "Documentation"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is documentation?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Describe what needs to be documented."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand how to reproduce it. This can include where your results and working data are saved."
 ---
 
 {% include links.md %}
