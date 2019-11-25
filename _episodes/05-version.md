@@ -23,7 +23,7 @@ Make sure you have a copy of every step you have completed and if possible, vers
 
 ## Never make alterations to your raw data files
 
-Instead, make a copy of the raw data files and keep them somewhere safe (like [Research Vault](https://research-storage.griffith.edu.au/)). That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
+Instead, make a copy of the raw data files and keep them somewhere safe (like [Research Vault](https://research-storage.griffith.edu.au/){:target="_blank"}). That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
 
 ## Write down versions of analysis software
 
@@ -38,8 +38,8 @@ If you are using random numbers in your research, save your random seed generato
 {: .challenge}
 
 > ## Intermediate
-> If you are using a workflow program (Galaxy, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/) or 
-> [TINKER Humanities,Arts and Social Science Virtual Lab](https://tinker.edu.au/)), you can copy your workflow and save 
+> If you are using a workflow program (Galaxy, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/){:target="_blank"} or 
+> [TINKER Humanities,Arts and Social Science Virtual Lab](https://tinker.edu.au/){:target="_blank"}, you can copy your workflow and save 
 > it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available. 
 {: .challenge}
 
@@ -55,9 +55,10 @@ Griffith has a gitlab version you can use for private repositories. Also record 
 {: .challenge}
 
 ## External Resources
-* [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)
-* [What is git](https://opensource.com/resources/what-is-git)
-* [Reproducibility in SPSS](https://andrewpwheeler.wordpress.com/2012/03/20/making-a-reproducible-example-in-spss/)
-* [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice)
-* [Git for Scientists](https://milesmcbain.github.io/git_4_sci/)
+* [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/){:target="_blank"}
+* [What is git](https://opensource.com/resources/what-is-git){:target="_blank"}
+* [Reproducibility in SPSS](https://andrewpwheeler.wordpress.com/2012/03/20/making-a-reproducible-example-in-spss/){:target="_blank"}
+* [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice){:target="_blank"}
+* [Git for Scientists](https://milesmcbain.github.io/git_4_sci/){:target="_blank"}
+* [The Turing Way Version Control](https://the-turing-way.netlify.com/version_control/version_control.html){:target="_blank"}
 
