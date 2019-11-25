@@ -38,3 +38,8 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 To cite this lesson, please consult with [CITATION](CITATION)
 
 [lesson-example]: https://carpentries.github.io/lesson-example
+
+## Acknowledgement
+Credits to Amanda Miotto and Julie Toohey from Griffith University, the originators of the "8 Reproducible Things" workshop. 
+Recognising its applicability to any researcher or institution, they have released the workshop materials on Github, 
+written in markdown, for use by others under a Creative Commons licence. The original material can be found here: https://github.com/guereslib/Reproducible-Research-Things. These Reproducible Research resources (created by Griffith University’s Library and eResearch Services), are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
