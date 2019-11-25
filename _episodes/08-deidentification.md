@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "Separating identifying variables from your data"
 teaching: 0
 exercises: 0
 questions:
