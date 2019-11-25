@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Documentation"
 teaching: 0
 exercises: 0
 questions:
@@ -9,13 +9,10 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
 
 {% include links.md %}
 
 ### Step 1
-
-### Documentation
 
 ---
 Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand the workings of your lab. 
@@ -61,10 +58,8 @@ Ideally you want to document anything that a lab member coming on board would ne
 * Griffith's Gitlab wiki options - talk to eResearch Support or Hacky Hour
 ---
 ### External Resources
-[British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
-
-[How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
-
-[Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
+* [British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+* [How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
+* [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
 
 
