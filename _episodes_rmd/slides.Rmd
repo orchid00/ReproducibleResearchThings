@@ -1,0 +1,19 @@
+---
+title: "Reproducible Research"
+author: "Paula Andrea Martinez"
+date: "29/11/2019"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+Hello
+
+---
+
+Hello 2
+---
