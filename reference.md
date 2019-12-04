@@ -6,4 +6,12 @@ layout: reference
 
 FIXME
 
+## Resources MQ
+
+{% include mqresources.md %}
+
+
+
 {% include links.md %}
+
+
