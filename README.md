@@ -1,6 +1,6 @@
 # Reproducible Research Things
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+[![CJoin the Carpentries Slack](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
@@ -13,7 +13,7 @@ We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTR
 the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
 
-Please see the current list of [issues][https://github.com/orchid00/ReproducibleResearchThings/issues] for ideas for contributing to this
+Please see the current list of [issues](https://github.com/orchid00/ReproducibleResearchThings/issues) for ideas for contributing to this
 repository. For making your contribution, we use the GitHub flow, which is
 nicely explained in the chapter [Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) in Pro Git
 by Scott Chacon.
@@ -34,9 +34,9 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 To cite this lesson, please consult with [CITATION](CITATION)
 
-[lesson-example]: https://carpentries.github.io/lesson-example
-
 ## Acknowledgement
 Credits to Amanda Miotto and Julie Toohey from Griffith University, the originators of the "8 Reproducible Things" workshop. 
 Recognising its applicability to any researcher or institution, they have released the workshop materials on Github, 
-written in markdown, for use by others under a Creative Commons licence. The original material can be found here: https://github.com/guereslib/Reproducible-Research-Things. These Reproducible Research resources (created by Griffith University’s Library and eResearch Services), are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+written in markdown, for use by others. The original material can be found here: https://github.com/guereslib/Reproducible-Research-Things. The "Reproducible Research Things" resources created by Griffith University’s Library and eResearch Services are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://github.com/guereslib/Reproducible-Research-Things/blob/master/copyright.md).
+
+[lesson-example]: https://carpentries.github.io/lesson-example
