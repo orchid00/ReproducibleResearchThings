@@ -50,15 +50,15 @@ No one wants their research to be `retracted`
   
 ---
 
-## Today we are going to learn 9 lessons to safeguard us against these situations
+### Today we are going to learn 9 lessons to safeguard us against these situations
 
 ---
 
-## Let's look at some scenarios....
+### Let's look at some scenarios....
 
 ---
 
-## What if a key person from your lab disappeared one day? (family or personal emergency, no longer contactable)
+### What if a key person from your lab disappeared one day? (family or personal emergency, no longer contactable)
 
 ---
 
@@ -74,7 +74,7 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
-## Let's look at a few tools we can use to protect our research:
+### Let's look at a few tools we can use to protect our research:
 
 ---
 
@@ -86,44 +86,43 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
-# Step1 
-# Documentation
+## Step1 
+## Documentation
 
 ---
 
-# Step2
-# Naming Conventions
-
+## Step2
+## Naming Conventions
 
 --- 
 
-# Step 3 
-# Folder Structures
+## Step 3 
+## Folder Structures
 
 ---
 
-# Step 4
-# Automation
+## Step 4
+## Automation
 
 ---
 
-# Step 5
-# Version Control
+## Step 5
+## Version Control
 
 ---
 
-## Great! 
-## By implementing these steps, we've already improved our processes!
+### Great! 
+### By implementing these steps, we've already improved our processes!
 
-## Now if someone leaves our lab, we're covered!
-
----
-
-# Next Scenario....
+### Now if someone leaves our lab, we're covered!
 
 ---
 
-## Imagine your laptop and hard drives are lost or damaged? 
+### Next Scenario....
+
+---
+
+### Imagine your laptop and hard drives are lost or damaged? 
 
 ---
 
@@ -148,8 +147,8 @@ Source: PHDcomics
 
 ---
 
-# Step6
-# Cloud Backup
+## Step6
+## Cloud Backup
 
 --- 
 
@@ -158,13 +157,13 @@ While Computer security isn't really about reproducibility, it is important. Plu
 
 ---
 
-# Step 7
-# Computer Security
+## Step 7
+## Computer Security
 
 --- 
 
-# Step 8
-# Deidentifying your data
+## Step 8
+## Deidentifying your data
 
 --- 
 
@@ -176,7 +175,7 @@ Now let's look at after a project has finished
 
 ---
 
-# Next Scenario....
+### Next Scenario....
 
 ---
 ## Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
@@ -200,7 +199,8 @@ We're already covered some things that can help us
 
 New tool
 
-### Digital Object Identifier (DOI) and Persistent identifier (PiD)
+## Step 9
+## Digital Object Identifier (DOI) and Persistent identifier (PiD)
 
 ---
 
