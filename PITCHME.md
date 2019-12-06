@@ -41,7 +41,8 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 ---
 
 No one wants their research to be 
-@snap[midpoint span-33 text-center] @box[border-solid-gray](retracted) @snapend
+@snap[midpoint span-33 text-center] @box[border-solid-gray](In your PITCHME.yaml) @snapend
+
 * some data were missing
 * untraked version of changes
 * mistakes were made
