@@ -65,7 +65,7 @@ Reflections by authors who had discovered they had made a mistake:
 
 ---
 
-## Let's look at some scenerios....
+## Let's look at some scenarios....
 
 ---
 
@@ -130,7 +130,7 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
-# Next Scenerio....
+# Next Scenario....
 
 ---
 
