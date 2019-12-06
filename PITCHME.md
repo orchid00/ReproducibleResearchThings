@@ -65,7 +65,8 @@ No one wants their research to be `retracted`
 Could you all continue your work?
 <span>Would you know where all your data is stored? <!-- .element: class="fragment" data-fragment-index="1" --></span>
 <span>Could you keep running effectively for 1 month? <!-- .element: class="fragment" data-fragment-index="2" --></span>
-<h2>1 year?<!-- .element: class="fragment" data-fragment-index="3" --></h2>
+
+`1 year?`
 
 ---
 
@@ -179,11 +180,14 @@ Now let's look at after a project has finished
 
 ---
 
-Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
+Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. 
+
+`Could you?`
 
 ---
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd031214s.png =450x400)
+
 Source: PHDcomics
 
 ---
@@ -198,8 +202,6 @@ We're already covered some things that can help us
 
 ---
 
-New tool
-
 ## Step 9
 ## Digital Object Identifier (DOI) and Persistent identifier (PiD)
 
@@ -209,7 +211,7 @@ Wow, that's 9 Reproducible Research things!
 
 ---
 
-What if we look at another Scenario?
+What if we look at another scenario?
 
 ---
 
@@ -237,6 +239,7 @@ What changes are you going to make?
 ---
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-50-3a3504.jpeg)
+
 Note:the nib.com Repeat after me comic
 
 ---
