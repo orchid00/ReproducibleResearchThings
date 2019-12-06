@@ -1,0 +1,57 @@
+# GitPitch 
+#
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : template
+theme-background : [ "#262626" ]
+theme-headline   : [ "Ubuntu", "#fff3ad", "none" ]
+theme-byline     : [ "Ubuntu", "#C0C0C0", "none" ]
+theme-text       : [ "Ubuntu", "#F5FFFA", "none" ]
+theme-links      : [ "#E27924", "#FF851B" ]
+theme-code       : [ "Fira Code" ]
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "5px" ]
+
+highlight        : ir-black
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+# theme-override: assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+#logo : assets/img/logo.png
+#logo-position : top-left
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "Reproducibile Research"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Reproducibile Research"
+description : "Short steps to Reproducibile Research"
+#thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
