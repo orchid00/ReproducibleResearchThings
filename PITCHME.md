@@ -40,10 +40,7 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 
 ---
 
-No one wants their research to be 
-@code(`retracted`)
-
-
+No one wants their research to be `retracted`
 
 * some data were missing
 * untraked version of changes
@@ -51,8 +48,6 @@ No one wants their research to be
   * true error
   * fraud
   
-
-
 ---
 
 > A paleontology journal has retracted a recent paper after discovering it had published the uncorrected version of the manuscript.
