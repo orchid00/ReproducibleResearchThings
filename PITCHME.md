@@ -40,7 +40,15 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 
 ---
 
-## Extracts from Retraction Watch (Australian papers)
+No one wants their research to be 
+    retrated.
+* some data were missing
+* untraked version of changes
+* mistaked were made
+  * true error
+  * fraud
+  
+
 
 ---
 
