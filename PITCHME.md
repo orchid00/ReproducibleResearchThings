@@ -11,7 +11,7 @@ slideOptions:
 
 ---
 
-## Acknowledgement 
+### Acknowledgement 
 
 > @AmandaMiottoGU and 
 > @JulieToohey from Griffith University, 
@@ -20,7 +20,7 @@ slideOptions:
 
 ---
 
-# What is Reproducible Research?
+## What is Reproducible Research?
 
 ---
 
