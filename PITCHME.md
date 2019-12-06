@@ -11,9 +11,11 @@ slideOptions:
 
 ---
 
-> Acknowledgement to @AmandaMiottoGU and 
+## Acknowledgement 
+
+> @AmandaMiottoGU and 
 > @JulieToohey from Griffith University, 
-> last updated on 2019-07-08 CCBY4.0
+> for the original material last updated on 2019-07-08 CCBY4.0
 > https://github.com/guereslib/Reproducible-Research-Things
 
 ---
