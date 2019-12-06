@@ -39,4 +39,8 @@ Credits to Amanda Miotto and Julie Toohey from Griffith University, the originat
 Recognising its applicability to any researcher or institution, they have released the workshop materials on Github, 
 written in markdown, for use by others. The original material can be found here: https://github.com/guereslib/Reproducible-Research-Things. The "Reproducible Research Things" resources created by Griffith University’s Library and eResearch Services are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://github.com/guereslib/Reproducible-Research-Things/blob/master/copyright.md).
 
+## New Materials
+
+* [Slides by Paula](https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1)
+
 [lesson-example]: https://carpentries.github.io/lesson-example
