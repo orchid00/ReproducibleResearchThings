@@ -42,15 +42,10 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 
 No one wants their research to be 
 
----
-
-@title[Code Optimized]
-
 @code[sql zoom-19](src/sql/sample.sql)
 
 @snap[south span-100]
-@[1-5](Template `code` slides are space-optimized and color-blended.)
-@[6-9](Plus a selection of monospaced `code` fonts are available.)
+@[1-5](`retracted`)
 @snapend
 
 ---
