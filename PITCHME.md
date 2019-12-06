@@ -178,7 +178,8 @@ Now let's look at after a project has finished
 ### Next Scenario....
 
 ---
-## Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
+
+Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
 
 ---
 
