@@ -24,9 +24,7 @@ slideOptions:
 
 ---
 
----?image=assets/img/lc-logo-black.png&position=left&size=55% 100%
-
-![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-004-c4c849.jpeg&size=auto 70%)
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-004-c4c849.jpeg&position=left&size=50%)
 
 Source: https://thenib.com
 
