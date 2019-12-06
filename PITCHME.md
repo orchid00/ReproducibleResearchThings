@@ -41,10 +41,8 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 ---
 
 No one wants their research to be 
+@code(`retracted`)
 
-@snap[span-100]
-@[1-5](`retracted`)
-@snapend
 
 
 * some data were missing
