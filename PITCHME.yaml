@@ -39,7 +39,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Reproducibile Research"
+footnote : "Reproducible Research"
 
 #
 # Published Setting
@@ -51,6 +51,6 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Reproducibile Research"
-description : "Short steps to Reproducibile Research"
+title : "Reproducible Research"
+description : "Short steps to Reproducible Research"
 #thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
