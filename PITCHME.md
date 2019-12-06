@@ -15,7 +15,7 @@ slideOptions:
 
 > @AmandaMiottoGU and 
 > @JulieToohey from Griffith University, 
-> for the original material last updated on 2019-07-08 CCBY4.0
+> for the original material last updated on 2019-07-08, CC BY-NC 4.0
 > https://github.com/guereslib/Reproducible-Research-Things
 
 ---
