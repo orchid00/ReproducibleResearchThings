@@ -5,18 +5,17 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : template
-theme-background : [ "#262626" ]
-theme-headline   : [ "Ubuntu", "#fff3ad", "none" ]
-theme-byline     : [ "Ubuntu", "#C0C0C0", "none" ]
-theme-text       : [ "Ubuntu", "#F5FFFA", "none" ]
-theme-links      : [ "#E27924", "#FF851B" ]
-theme-code       : [ "Fira Code" ]
+theme            : template
+
+theme-background : [ "linear-gradient(100deg, white 90%, #BE5869 10%)" ]
+theme-headline   : [ "Montserrat", "#BE5869", "none" ]
+theme-byline     : [ "Montserrat", "#111111", "none" ]
+theme-text       : [ "Raleway", "#333", "none" ]
+theme-links      : [ "#7FDBFF", "#0074D9" ]
 theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "0", "5px" ]
+theme-code       : [ "Victor Mono Italic" ]
 
-highlight        : ir-black
-
+highlight        : tomorrow
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
