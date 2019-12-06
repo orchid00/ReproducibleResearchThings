@@ -42,13 +42,10 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 
 No one wants their research to be 
 
-@code[sql zoom-19](src/sql/sample.sql)
-
-@snap[south span-100]
+@snap[span-100]
 @[1-5](`retracted`)
 @snapend
 
----
 
 * some data were missing
 * untraked version of changes
