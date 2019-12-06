@@ -41,10 +41,10 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 ---
 
 No one wants their research to be 
-    retrated.
+@snap[midpoint span-33 text-center] @box[border-solid-gray](retracted) @snapend
 * some data were missing
 * untraked version of changes
-* mistaked were made
+* mistakes were made
   * true error
   * fraud
   
