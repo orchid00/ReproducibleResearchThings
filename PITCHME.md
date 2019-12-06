@@ -30,7 +30,7 @@ Source: https://thenib.com
 
 ---
 
-# Why is it Important?
+## Why is it Important?
 
 ---
 
@@ -62,9 +62,9 @@ No one wants their research to be `retracted`
 
 ---
 
-Could you all continue your work?
-<span>Would you know where all your data is stored? <!-- .element: class="fragment" data-fragment-index="1" --></span>
-<span>Could you keep running effectively for 1 month? <!-- .element: class="fragment" data-fragment-index="2" --></span>
+* Could you all continue your work?
+* Would you know where all your data is stored?
+* Could you keep running effectively for 1 month?*
 
 `1 year?`
 
@@ -75,7 +75,7 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
-### Let's look at a few tools we can use to protect our research:
+### Let's look at a few tools we can use to protect our research
 
 ---
 
@@ -113,9 +113,9 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 ---
 
 ### Great! 
-### By implementing these steps, we've already improved our processes!
+By implementing these steps, we've already improved our processes!
 
-### Now if someone leaves our lab, we're covered!
+`Now if someone leaves our lab, we're covered!`
 
 ---
 
@@ -127,13 +127,13 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
-Could you continue your work? 
-<span>Is your data backed up? </span>
-<span>Encrypted?</span>
+* Could you continue your work?
+* Is your data backed up?
+* Encrypted?
 
 ---
 
-Let's look at a few tools we can use to protect our research:
+### Let's look at a few tools we can use to protect our research
 
 ---
 
@@ -144,6 +144,7 @@ Let's look at a few tools we can use to protect our research:
 ---
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd103003s.gif)
+
 Source: PHDcomics
 
 ---
