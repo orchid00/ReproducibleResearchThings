@@ -50,25 +50,6 @@ No one wants their research to be `retracted`
   
 ---
 
-> A paleontology journal has retracted a recent paper after discovering it had published the uncorrected version of the manuscript.
-
-The mistake occurred after the authors submitted revisions to the manuscript without tracking the changes, prompting the publisher to believe nothing had been changed and publishing the previous version. The journal initially told the authors it planned to publish an erratum that described the mistake as a production error, but then retracted the paper—seemingly without consulting the authors. However, the authors said they were happy with the outcome.
-
----
-
-> A grad student was caught in the crossfire of fraud — and fought back
-
-In March, 2013, a graduate student joined the lab of a prominent researcher in Australia...
-
----
-
-Reflections by authors who had discovered they had made a mistake:
-* https://dynamicecology.wordpress.com/2016/12/02/on-finding-errors-in-ones-published-analyses/
-* http://ecoevoevoeco.blogspot.com/2016/12/wrong-lot.html
-
-
----
-
 ## Today we are going to learn 9 lessons to safeguard us against these situations
 
 ---
