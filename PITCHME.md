@@ -255,7 +255,7 @@ Source : [IMB file name support](https://www.ibm.com/support/knowledgecenter/en/
 
 Let's look at some naming convention for your data files and documents. 
 * Any dates are best stored with YYYYMMDD.
-* Try to avoid spaces in your file names.
+* `No, no, no spaces` in your file names.
 
 Which files can you already rename to follow this new convention?
 
