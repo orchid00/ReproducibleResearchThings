@@ -219,7 +219,7 @@ Your research team should agree on the following elements of a file name prior t
 
 * Vocabulary - choose a standard vocabulary for file names, so that everyone uses a common language
 * Punctuation - decide when to use punctuation symbols, capitals and hyphens
-* Dates - agree on a logical use of dates so that they display chronologically i.e. YYYY-MM-DD `ISO 8601`
+* Dates - agree on a logical use of dates so that they display chronologically i.e. YYYY-MM-DD **ISO 8601**
 
 ---
 
@@ -230,12 +230,12 @@ Your research team should agree on the following elements of a file name prior t
 
 As suggested, consistent and meaningful naming of files and folders can make everyone’s life easier. See this example below:
 
-* YYYYMMDD__SiteA_SensorB.csv
-* Date__Location_Sensor.extension
+> YYYYMMDD__SiteA_SensorB.csv
+> Date__Location_Sensor.extension
 
-Which when applied, would look like this below
+Applied
 
-20150621__Yaouk_Humidity.csv
+> 20150621__Yaouk_Humidity.csv
 
 ---
 
