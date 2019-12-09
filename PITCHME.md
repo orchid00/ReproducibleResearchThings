@@ -652,7 +652,7 @@ By storing de-identified data in a secure solution, you are meeting safety, cont
 
 ---
 
-### Australian practical guidance for De-identification (ARDC)
+#### Australian practical guidance for De-identification (ARDC)
 *Australian Research Data Commons (ARDC)* formerly known as Australian National Data Service (ANDS) released a [fabulous guide on De-identification](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data). The De-identification guide is intended for researchers who *own* a dataset and wish to share safely with fellow researchers or for the publishing of data.   
 
 ---
@@ -698,6 +698,12 @@ Data may often need to be identifiable (i.e. contains personal information) duri
 #### Safely sharing sensitive data guide (ARDC)
 
 * Australian National Data Service. (2018). [Safely sharing sensitive data](https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data)
+
+---
+
+### Time to explore
+
+You have now a few minutes to browse through the materials provided about de-identifying your data.
 
 ---
 
