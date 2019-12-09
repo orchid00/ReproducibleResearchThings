@@ -420,7 +420,7 @@ Could you code up your analysis, so it is completely automated?
 
 ---
 
-### A version control system allows users to keep track of changes in your Data or Process.
+#### A version control system allows users to keep track of changes in your Data or Process.
 
 ---
 
