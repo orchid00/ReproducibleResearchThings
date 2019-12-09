@@ -265,7 +265,7 @@ Which files can you already rename to follow this new convention?
 
 The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) the [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).
 
-Make sure you follow 13 Rules for file naming conventions within your project files.
+Make sure you follow these rules within your project files.
 
 ---
 
