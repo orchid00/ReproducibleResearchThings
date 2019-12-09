@@ -788,7 +788,7 @@ Ensure data you associate with a publication has a DOI- your library is the best
 * Learn more about PiDs and DOIs with the [ANDS guide](https://www.ands.org.au/guides/persistent-identifiers-awareness)
 ---
 
-Wow, that's 9 Reproducible Research things! 
+### Wow, that's 9 Reproducible Research things! 
 
 ---
 
