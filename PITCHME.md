@@ -796,7 +796,7 @@ What if we look at another scenario?
 
 ---
 
-If a research partner organisation believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen?
+If a research partner organisation believes your "sensitive" data has been made available to others (data breach). Could you show which steps were taken to avoid this?
 
 ---
 
