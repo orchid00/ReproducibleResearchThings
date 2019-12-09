@@ -369,13 +369,23 @@ Come up with a policy for your group for folder structures. You could create a t
 ## Step 4
 ## Automation
 
-----
+---
 
 ### Can you automate any repetitive tasks? 
 
 ---
 
 Often, tasks that need to be done over and over again by a human, can be opportunities for human error to sneak in. Setting up an automation this can eliminate this issue. Anything from a macro to coding in a data science framework can help.
+
+---
+
+Ways you can automate things:
+* Use email filters/conditions, MacOS - Automator, Win 10 - Task scheduler, Microsoft flow or Google script
+
+To the next level of automation
+* Learn to `write code` that automates things for you: Python or R 
+
+Talk to your local hacky hour or Carpentries community!
 
 ---
 
@@ -393,17 +403,7 @@ Let's think about the repetitive tasks that you wish could automate
 
 #### Advanced
 
-Could you code up your analysis so it is completely automated?
-
----
-
-Ways you can automate things:
-* Use email filters/conditions, MacOS - Automator, Win 10 - Task scheduler, Microsoft flow or Google script
-
-To the next level of automation
-* Learn to write code that does things for you: Python or R 
-
-Talk to your local hacky hour or Carpentries community!
+Could you code up your analysis, so it is completely automated?
 
 ---
 
@@ -414,23 +414,111 @@ Talk to your local hacky hour or Carpentries community!
 ## Version Control
 
 ---
+
 ## Step 5
 ## Version Control
 
 ---
 
+### A version control system allows users to keep track of changes in your Data or Process.
+
+---
+
+Are you keeping track of any versions or logs made by the software in use?
+
+Make sure you have a copy of every step you have completed, and if possible, version numbers for the program you are using and any libraries. Programs change over time and this can alter your results if someone asks to replicate your work post-publication.
+
+---
+
+### Never make alterations to your raw data files
+
+---
+
+Instead, make a copy of the raw data files and keep them safe on the cited storage options. That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
+
+---
+
+### Write down versions of analysis software
+
+---
+
+Write down the `versions of` analysis `software` (like SPSS or NVIVO etc) `and hardware` (MRI machines etc). Your documentation is a great place for this, or in your lab notebook will work.
+
+---
+### Random Number Generator
+
+---
+
+If you are using random numbers in your research, save your random seed generator number as part of your working data. This way, you can later reproduce your results.
+---
+
+### Exercises!
+
+---
+#### Beginner
+
+Discuss among yourselves when is best save different versions of your datasets.
+
+---
+
+### Intermediate
+
+If you are using a workflow program like [Galaxy - https://usegalaxy.org.au/](https://usegalaxy.org.au/), or a virtual lab like:
+* [EcoCloud -https://ecocloud.org.au/](https://ecocloud.org.au/)
+* [TINKER - https://tinker.edu.au/](https://tinker.edu.au/)
+* [Characterisation (CVL) - https://desktop.cvl.org.au](desktop.cvl.org.au/)
+
+you can copy your workflow logs and save it as part of your documentation. Write the date that you ran the workflow and the versions of the software. 
+
+---
+
+#### Advanced 
+
+If you are writing scripts (R/Python/Matlab etc), use Git to manage versions of your code.
+
+Note:
+GitHub has some special education accounts, check if your institution is a partner, or apply for it: https://education.github.com/schools.
+
+Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using. If you are using the HPC, also record the version of any modules you used there. 
+
+---
+#### more advanced
+
+If you’ve heard of Docker or Singularity and you are interested, come talk to hacky hour/eResearch Services
+Check [https://biocontainers.pro](https://biocontainers.pro), [https://docs.docker.com/registry/](https://docs.docker.com/registry/), [Azure container registry](https://azure.microsoft.com/en-us/services/container-registry/), [Singularity Hub](https://singularityhub.github.io/sregistry/).
+
+---
+
+Note if you are going to publish any Git repos, seek advise about licences
+
+---
+
+### External Resources
+* [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)
+* [What is git](https://opensource.com/resources/what-is-git)
+* [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice)
+* [Git for Scientists](https://milesmcbain.github.io/git_4_sci/)
+* [The Turing Way Version Control](https://the-turing-way.netlify.com/version_control/version_control.html)
+
+---
+
 ### Great! 
-By implementing these steps, we've already improved our processes!
+By implementing these steps:
+* Documentation
+* Naming Conventions
+* Folder Structures
+* Automation
+* Version Control
 
-`Now if someone leaves our lab, we're covered!`
+we've already improved our processes!
 
 ---
 
-### Next Scenario....
+#### Next Scenario....
 
 ---
 
-### Imagine your laptop and hard drives are lost or damaged? 
+#### Imagine your laptop and hard drives are lost or damaged? 
 
 ---
 
