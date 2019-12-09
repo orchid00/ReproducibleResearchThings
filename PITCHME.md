@@ -623,9 +623,81 @@ Check your institution's wiki ;)
 --- 
 
 ## Step 8
-## Deidentifying your data
+## De-identifying your data
 
 --- 
+
+**Sensitive data** are data that can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. Major, familiar categories of sensitive data are personal data - health and medical data and ecological data, that may place vulnerable species at risk.
+
+---
+
+Separating or de-identifying your data generally occurs to protect an individual's privacy.
+
+---
+
+According to the Australian Privacy Act 1988, "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable". De-identified information is no longer considered personal information and can be shared. [More information on the Commonwealth Privacy Act](https://www.legislation.gov.au/Details/C2019C00241) 20 August 2019.
+
+---
+
+*De-identifying* aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, cultural data or location of endangered species.  
+
+---
+
+Any identifiers (name, date of birth, address or geospatial locations, etc.) should be removed from the main dataset and replaced with a code/key. The code/key is then preferably encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements. 
+
+---
+*Re-identifying* an individual is possible by recombining the de-identifiable data set and the identifiers.  
+
+---
+
+### Australian practical guidance for De-identification (ARDC)
+*Australian Research Data Commons (ARDC)* formerly known as Australian National Data Service (ANDS) released a [fabulous guide on De-identification](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data). The De-identification guide is intended for researchers who *own* a dataset and wish to share safely with fellow researchers or for the publishing of data.   
+
+---
+
+Here are examples of practical guidelines available nationally 
+
+---
+* The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a [*‘De-identification Decision-Making Framework’](https://publications.csiro.au/rpr/download?pid=csiro:EP173122&dsid=DS3),* which is a “practical guide to de-identification, focussing on operational advice”. The guide will assist organisations that handle personal information to de-identify their data effectively. 
+
+---
+
+* The OAIC also provides [high-level guidance on de-identification of data and information](https://www.oaic.gov.au/agencies-and-organisations/guides/de-identification-and-the-privacy-act), outlining what de-identification is, and how it can be achieved. 
+* The Australian Government’s guidelines for the [disclosure of health information](https://www.aihw.gov.au/reports-data), includes techniques for making a data set non-identifiable and example case studies. 
+
+---
+
+#### Tips for managing de-identification (ARDC)
+
+---
+* Plan de-identification early in the research as part of your data management planning
+* Retain original unedited versions of data for use within the research team and preservation
+* Create a de-identification log of all replacements, aggregations or removals made
+
+---
+
+* Store the log separately from the de-identified data files
+* Identify replacements in text in a meaningful way, e.g. in transcribed interviews indicate replaced text with [brackets] or use XML markup tags.
+
+---
+#### Management of identifiable data (ARDC)
+
+---
+
+Data may often need to be identifiable (i.e. contains personal information) during the process of research, e.g. for analysis. If data is identifiable then ethical and privacy requirements can be met through *access control and data security*. This may take the form of:
+
+---
+* Control of access through physical or digital means (e.g. passwords)
+* Encryption of data, particularly if it is being moved between locations
+* Ensuring data is not stored in an identifiable and unencrypted format when on easily lost items such as USB keys, laptops and external hard drives.
+* Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
+
+---
+#### Safely sharing sensitive data guide (ARDC)
+
+* Australian National Data Service. (2018). [Safely sharing sensitive data](https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data)
+
+---
 
 ### So now we have some new skills up our sleeve
 ### If our laptop goes missing, we are better prepared
