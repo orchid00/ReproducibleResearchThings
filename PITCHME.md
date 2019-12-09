@@ -34,7 +34,7 @@ Source: https://thenib.com
 
 ---
 
-![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/reproducibility-graphic-online3.jpg)
+![image](https://raw.githubusercontent.com/orchid00/ReproducibleResearchThings/gh-pages/assets/img/reproducibility-graphic-online3.jpg)
 
 Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg)
 
