@@ -639,11 +639,13 @@ According to the Australian Privacy Act 1988, "personal information is de-identi
 
 ---
 
-*De-identifying* aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, cultural data or location of endangered species.  
+*De-identifying* aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. 
 
 ---
 
-Any identifiers (name, date of birth, address or geospatial locations, etc.) should be removed from the main dataset and replaced with a code/key. The code/key is then preferably encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements. 
+Any identifiers (name, date of birth, address or geospatial locations, etc.) should be removed from the main dataset and replaced with a code/key and preferably encrypted and stored separately. 
+
+By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements. 
 
 ---
 *Re-identifying* an individual is possible by recombining the de-identifiable data set and the identifiers.  
