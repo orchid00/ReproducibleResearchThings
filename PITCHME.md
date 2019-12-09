@@ -241,9 +241,9 @@ Applied
 
 Some characters may have special meaning to the operating system so avoid using these characters when you are naming files. These characters include the following: 
 
-> / \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline 
+> spaces / \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline 
 
-Source : [IMB file name support](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm).
+Source : [IMB file name support](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)
 
 --- 
 
