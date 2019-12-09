@@ -24,7 +24,7 @@ slideOptions:
 
 ---
 
-![image](assests/imgs/repproducibility.jpeg)
+![image](https://raw.githubusercontent.com/orchid00/ReproducibleResearchThings/gh-pages/assets/img/reproducibility.jpeg)
 
 Source: https://thenib.com
 
