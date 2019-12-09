@@ -93,6 +93,73 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
+Documentation is all the material that provides official information or evidence of procedures,
+
+so that an outsider could understand the workings of your lab/experiment. 
+
+---
+
+This can include where your results and working data are saved. 
+Lab notebooks and digital copies are saved in a safe place (such as research storage).
+* Make sure these are saved somewhere that's accessible to your supervisor/team. 
+
+---
+
+Have you got a new staff member coming onboard to your team? 
+
+Do they have access to `documentation`?
+
+---
+
+Documentation will also be important for any audits in your lab or if someone would like to reproduce your research.
+
+---
+
+`Documentation is a love letter to your future self - 
+Damian Conway`
+
+---
+
+### Exercises!
+
+---
+
+#### Beginner
+
+Read this first: [How to start documenting](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by CESSDA
+
+* Any start is a good start
+* Start with documenting in a text file or document 
+* Automatically sync to the cloud (in a shared place*) such as:
+  - OneDrive, Microsoft teams, AWS
+
+---
+
+#### Intermediate
+
+Once you have the basics in place, go into detail on how your workflow goes from raw data to the finished results. 
+
+This can be anything from the location of the data to the code you use to create results.
+
+---
+
+#### For all
+
+Now that you've got a good head start, time to learn about [Git Repositories](https://rogerdudler.github.io/git-guide/) and [wikis](https://help.github.com/en/github/building-a-strong-community/about-wikis).
+
+- A wiki is a collection of collaboratively authored web documents that help solve a problem.
+- Talk to eResearch support or the Library
+
+---
+
+### External Resources
+
+* [British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+* [How to start documenting](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by CESSDA
+* [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
+
+---
+
 ## Step2
 ## Naming Conventions
 
