@@ -697,21 +697,18 @@ Data may often need to be identifiable (i.e. contains personal information) duri
 ---
 #### Safely sharing sensitive data guide (ARDC)
 
-* Australian National Data Service. (2018). [Safely sharing sensitive data](https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data)
+Australian National Data Service. (2018). [Safely sharing sensitive data](https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data)
 
 ---
 
 ### Time to explore
 
-You have now a few minutes to browse through the materials provided about de-identifying your data.
+You have now a few minutes to browse through the last materials provided about de-identifying your data.
 
 ---
 
 ### So now we have some new skills up our sleeve
 ### If our laptop goes missing, we are better prepared
-
----
-Now let's look at after a project has finished
 
 ---
 
@@ -725,7 +722,7 @@ Someone has published contradicting results to your published paper, and you've 
 
 ---
 
-![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd031214s.png =450x400)
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/phd031214s.png)
 
 Source: PHDcomics
 
@@ -738,6 +735,10 @@ We're already covered some things that can help us
 #### Backing up to the cloud
 #### Computer Security
 #### De-identifying your data
+
+---
+
+Now let's look at after a project has finished
 
 ---
 
