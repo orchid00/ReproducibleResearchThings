@@ -198,15 +198,20 @@ Naming files consistently, logically and in a predictably will prevent against u
 
 ---
 
-### Coming up with a plan for your team on how to name files.
 Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, typified a common challenge: 
 
 ---
 
 >*‘During my PhD I was never good at managing my research data. I had so many different file names for my data that I always 
 > struggled to find the correct file quickly and easily when it was requested. My former PI was so horrified upon seeing
-> the state of my data organisation that she held an emergency lab book meeting with the rest of my group when l was leaving’*. 
-> Research Information, April/May 2014  
+> the state of my data organisation that she held an emergency lab book meeting with the rest of my group when I was leaving’. 
+> - Research Information, April/May 2014  
+
+---
+
+### Coming up with a plan for your team on how to name files.
+
+It will be best if you start this early.
 
 ---
 
