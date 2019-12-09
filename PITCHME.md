@@ -615,10 +615,10 @@ Use a VPN whenever you’re not at work
 Check your institution's wiki ;)
 
 ---
-#### Backing up to the cloud
-#### Computer Security
-### De-identifying your data
-#### Using persisten identifiers
+### Backing up to the cloud
+### Computer Security
+## De-identifying your data
+### Using persisten identifiers
 
 --- 
 
