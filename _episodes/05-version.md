@@ -57,7 +57,6 @@ Griffith has a gitlab version you can use for private repositories. Also record 
 ## External Resources
 * [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/){:target="_blank"}
 * [What is git](https://opensource.com/resources/what-is-git){:target="_blank"}
-* [Reproducibility in SPSS](https://andrewpwheeler.wordpress.com/2012/03/20/making-a-reproducible-example-in-spss/){:target="_blank"}
 * [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice){:target="_blank"}
 * [Git for Scientists](https://milesmcbain.github.io/git_4_sci/){:target="_blank"}
 * [The Turing Way Version Control](https://the-turing-way.netlify.com/version_control/version_control.html){:target="_blank"}
