@@ -44,6 +44,6 @@ written in markdown, for use by others. The original material can be found here:
 * [Slides by Paula](https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1)
 
 ## Short URL
-[shorturl.at/pzMX3](shorturl.at/pzMX3)
+[https://shorturl.at/pzMX3](https://shorturl.at/pzMX3)
 
 [lesson-example]: https://carpentries.github.io/lesson-example
