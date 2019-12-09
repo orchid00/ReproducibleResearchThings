@@ -223,8 +223,8 @@ Your research team should agree on the following elements of a file name prior t
 
 ---
 
-* Order - confirm which element should go first, so that files on the same theme are listed together and can therefore be found easily
-* Numbers - specify the amount of digits that will be used in numbering so that files are listed numerically e.g. 01, 002, etc.
+* Order - confirm which element should go first, so that files on the same theme are listed together and can, therefore, be found easily
+* Numbers - specify the number of digits that will be used to sort numerically e.g. 01, 002, etc.
 
 ---
 
@@ -302,6 +302,61 @@ This will go on Documentation. - Remember that wiki we were talking about?
 
 ---
 
+Having a standard folder structure can keep your files `neat` and `tidy` and save you time looking for data. It can also help if you are `sharing` files with colleagues by having a standard place to put working data and documentation.
+
+---
+
+Like files, folders can also follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow (logical orger). Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. 
+
+---
+
+Please see what a folder structure might look like
+---
+
+![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/folderstructure.jpg)
+
+---
+
+To develop a logical structure for your team, you need to consider the following points:
+* Check to make sure there are no pre-existing folder structure agreements
+* Name folders appropriately and in a meaningful manner. Better refer to a project than to a person
+* Consistency - make sure you use the agreed structure/hierarchy 
+
+---
+
+* Structure folders hierarchically - start with a limited number of folders for the broader topics, and then create more specific folders within these
+* Separate ongoing and completed work - as you start to create lots of folders and files, it is a good idea to start thinking about separating your older documents from those you are currently working on
+
+---
+* Backup – ensure folders and files are backed up and retrievable in the event of a disaster. Check your university safe storage solutions.
+* Clean up folders and files post project.
+
+---
+
+### Exercises!
+
+---
+
+#### Beginner
+
+Pick a dataset and illustrate how you currently organise your files.
+(For the visual ones: Draw a picture that describes your current approach to file organisation)  
+
+See if you can devise a better naming convention or note one or two improvements you could make to how you name your folders
+
+---
+#### Intermediate
+
+Come up with a policy for your group for folder structures. You could create a template and put it in a shared location for them to get them started. 
+
+---
+
+### External Resources
+
+* [Folder structure example by Nikola Vukovic](http://nikola.me/folder_structure.html)
+* [Folder structure example by Amanda MiottoGU and Julie Toohey](https://github.com/guereslib/MyResearchProjects/archive/master.zip)
+
+---
 
 ### Documentation
 ### Naming Conventions
