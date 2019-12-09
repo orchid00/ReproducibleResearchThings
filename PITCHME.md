@@ -474,18 +474,21 @@ you can copy your workflow logs and save it as part of your documentation. Write
 
 #### Advanced 
 
-If you are writing scripts (R/Python/Matlab etc), use Git to manage versions of your code.
+If you are writing scripts (R/Python/Matlab etc), use Git and GitHub to manage versions of your code.
+
+Also record the  the operating system, the version of the software and any library you are using. If you are using HPC, also record the version of any modules you used there. 
+
+---
 
 **Note:**
 GitHub has some special education accounts, check if your institution is a partner, or apply for it: https://education.github.com/schools.
-
-Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using. If you are using the HPC, also record the version of any modules you used there. 
 
 ---
 #### More Advanced
 
 If you’ve heard of Docker or Singularity and you are interested, come talk to hacky hour/eResearch Services
-Check [https://biocontainers.pro](https://biocontainers.pro), [https://docs.docker.com/registry/](https://docs.docker.com/registry/), [Azure container registry](https://azure.microsoft.com/en-us/services/container-registry/), [Singularity Hub](https://singularityhub.github.io/sregistry/).
+
+* Check [https://biocontainers.pro](https://biocontainers.pro), [https://docs.docker.com/registry/](https://docs.docker.com/registry/), [Azure container registry](https://azure.microsoft.com/en-us/services/container-registry/), [Singularity Hub](https://singularityhub.github.io/sregistry/).
 
 ---
 
