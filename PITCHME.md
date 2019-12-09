@@ -581,7 +581,7 @@ Source: PHDcomics
 ---
 
 **Note:**
-While Computer security isn't really about reproducibility, it is important to preserve what makes your research reproducible. The highlight point is encrypting hard drives.
+While Computer security isn't really about reproducibility, it is important to preserve what makes your research reproducible. The highlight point is encrypting your data storage.
 
 ---
 Unsuring that your computer and network are secured means that you have far less a chance of a data breach, loss or hack. 
