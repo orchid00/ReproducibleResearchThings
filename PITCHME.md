@@ -24,7 +24,7 @@ slideOptions:
 
 ---
 
-![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/repeat-after-me-004-c4c849.jpeg)
+![image](assests/imgs/repproducibility.jpeg)
 
 Source: https://thenib.com
 
