@@ -533,9 +533,9 @@ we've already improved our processes!
 ---
 
 ### Backing up to the cloud
-### Computer Security
-### De-identifying your data
-### Using persisten identifiers
+#### Computer Security
+#### De-identifying your data
+#### Using persisten identifiers
 
 ---
 
@@ -550,13 +550,75 @@ Source: PHDcomics
 
 --- 
 
-Note:
-While Computer security isn't really about reproducibility, it is important. Plus I wanted to highlight encrypting hard drives
+### Keep a copy of your data on the cloud
+
+---
+
+Keeping a copy of all your data (working, raw and completed) in the cloud is incredibly important. This ensures that if you have a computer failure, accidentally delete your data or your data is corrupted, your research is restorable. 
+
+---
+
+#### Let's talk all together
+
+- A good place for your day-to-day working files. 
+- Can you share it externally?
+- Is it automatically ‘sync’ ?
+- What are the storage limits in size and time?
+
+---
+
+
+#### Backing up to the cloud
+### Computer Security
+#### De-identifying your data
+#### Using persisten identifiers
 
 ---
 
 ## Step 7
 ## Computer Security
+
+---
+
+**Note:**
+While Computer security isn't really about reproducibility, it is important to preserve what makes your research reproducible. The highlight point is encrypting hard drives.
+
+---
+Unsuring that your computer and network are secured means that you have far less a chance of a data breach, loss or hack. 
+---
+
+### Exercises!
+
+---
+#### Beginner
+
+* Have good strong passwords and encrypt your data, essential if you work with sensitive and highly sensitive data.
+
+---
+#### Intermediate
+* Get set up on a password manager, such as [lastpass](https://www.lastpass.com/business-password-manager).
+
+---
+#### Advanced
+* Plan a meeting to discuss in the lab/office what kind of encryption is needed as safe habits.
+
+---
+Using Multi-Factor Authentication when the option is available (Signing in with a password and an email to your account with a pin)
+
+---
+
+Avoid unsecure wifi - If its available, Eduroam is usually a better option than free wifi/cafe wifi
+
+---
+
+Use a VPN whenever you’re not at work
+Check your institution's wiki ;)
+
+---
+#### Backing up to the cloud
+#### Computer Security
+### De-identifying your data
+#### Using persisten identifiers
 
 --- 
 
