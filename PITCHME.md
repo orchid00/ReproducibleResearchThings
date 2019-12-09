@@ -160,13 +160,40 @@ Now that you've got a good head start, time to learn about [Git Repositories](ht
 
 ---
 
+
+### Documentation
+## Naming Conventions
+### Folder Structures
+### Automation
+### Version Control
+
+---
+
 ## Step2
 ## Naming Conventions
 
 --- 
 
+
+### Documentation
+### Naming Conventions
+## Folder Structures
+### Automation
+### Version Control
+
+---
+
 ## Step 3 
 ## Folder Structures
+
+---
+
+
+### Documentation
+### Naming Conventions
+### Folder Structures
+## Automation
+### Version Control
 
 ---
 
@@ -175,6 +202,14 @@ Now that you've got a good head start, time to learn about [Git Repositories](ht
 
 ---
 
+
+### Documentation
+### Naming Conventions
+### Folder Structures
+### Automation
+## Version Control
+
+---
 ## Step 5
 ## Version Control
 
