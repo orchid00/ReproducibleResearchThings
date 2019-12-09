@@ -58,7 +58,8 @@ No one wants their research to be `retracted`
 
 ---
 
-### What if a key person from your lab disappeared one day? (family or personal emergency, no longer contactable)
+### What if a key person from your lab disappeared one day? 
+(family or personal emergency, no longer contactable)
 
 ---
 
