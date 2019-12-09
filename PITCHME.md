@@ -63,13 +63,10 @@ No one wants their research to be `retracted`
 
 ---
 
-
-@snap[south span-100]
-@[1-5]* Could you all continue your work?
-@[6-9]* Would you know where all `the data` is stored?
-@[10-15]* Could you keep running effectively for 1 month?
-@[15-19]`1 year?`
-@snapend
+* Could you all continue your work?
+* Would you know where all `the data` is stored?
+* Could you keep running effectively for 1 month?
+`1 year?`
 
 ---
 
