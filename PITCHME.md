@@ -457,11 +457,11 @@ If you are using random numbers in your research, save your random seed generato
 ---
 #### Beginner
 
-Discuss among yourselves when is best save different versions of your datasets.
+Discuss among yourselves when is best to save different versions of your datasets.
 
 ---
 
-### Intermediate
+#### Intermediate
 
 If you are using a workflow program like [Galaxy - https://usegalaxy.org.au/](https://usegalaxy.org.au/), or a virtual lab like:
 * [EcoCloud -https://ecocloud.org.au/](https://ecocloud.org.au/)
@@ -476,13 +476,13 @@ you can copy your workflow logs and save it as part of your documentation. Write
 
 If you are writing scripts (R/Python/Matlab etc), use Git to manage versions of your code.
 
-Note:
+**Note:**
 GitHub has some special education accounts, check if your institution is a partner, or apply for it: https://education.github.com/schools.
 
 Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using. If you are using the HPC, also record the version of any modules you used there. 
 
 ---
-#### more advanced
+#### More Advanced
 
 If you’ve heard of Docker or Singularity and you are interested, come talk to hacky hour/eResearch Services
 Check [https://biocontainers.pro](https://biocontainers.pro), [https://docs.docker.com/registry/](https://docs.docker.com/registry/), [Azure container registry](https://azure.microsoft.com/en-us/services/container-registry/), [Singularity Hub](https://singularityhub.github.io/sregistry/).
@@ -514,7 +514,7 @@ we've already improved our processes!
 
 ---
 
-#### Next Scenario....
+### Next Scenario....
 
 ---
 
@@ -534,7 +534,8 @@ we've already improved our processes!
 
 ### Backing up to the cloud
 ### Computer Security
-### Deidentifying your data
+### De-identifying your data
+### Using persisten identifiers
 
 ---
 
