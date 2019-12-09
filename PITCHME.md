@@ -369,8 +369,43 @@ Come up with a policy for your group for folder structures. You could create a t
 ## Step 4
 ## Automation
 
+----
+
+### Can you automate any repetitive tasks? 
+
 ---
 
+Often, tasks that need to be done over and over again by a human, can be opportunities for human error to sneak in. Setting up an automation this can eliminate this issue. Anything from a macro to coding in a data science framework can help.
+
+---
+
+### Exercises!
+
+---
+
+#### Beginner
+
+Let's think about the repetitive tasks that you wish could automate 
+
+- Do you always rename files the same way? Do you manually copy files across?
+
+---
+
+#### Advanced
+
+Could you code up your analysis so it is completely automated?
+
+---
+
+Ways you can automate things:
+* Use email filters/conditions, MacOS - Automator, Win 10 - Task scheduler, Microsoft flow or Google script
+
+To the next level of automation
+* Learn to write code that does things for you: Python or R 
+
+Talk to your local hacky hour or Carpentries community!
+
+---
 
 ### Documentation
 ### Naming Conventions
