@@ -43,7 +43,7 @@ Source: [Nature doi:10.1038/533452a](https://www.nature.com/news/polopoly_fs/7.3
 No one wants their research to be `retracted`
 
 * some data were missing
-* untraked version of changes
+* untracked version of changes
 * mistakes were made
   * true error
   * fraud
