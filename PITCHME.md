@@ -554,7 +554,7 @@ Source: PHDcomics
 
 ---
 
-Keeping a copy of all your data (working, raw and completed) in the cloud is incredibly important. This ensures that if you have a computer failure, accidentally delete your data or your data is corrupted, your research is restorable. 
+`Keeping a copy` of all your data (working, raw and completed) `in the cloud is incredibly important`. This ensures that if you have a computer failure, accidentally delete your data or your data is corrupted, your research is restorable. 
 
 ---
 
@@ -568,10 +568,10 @@ Keeping a copy of all your data (working, raw and completed) in the cloud is inc
 ---
 
 
-#### Backing up to the cloud
-### Computer Security
-#### De-identifying your data
-#### Using persisten identifiers
+### Backing up to the cloud
+## Computer Security
+### De-identifying your data
+### Using persisten identifiers
 
 ---
 
