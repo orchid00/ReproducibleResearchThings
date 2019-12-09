@@ -230,8 +230,8 @@ Your research team should agree on the following elements of a file name prior t
 
 As suggested, consistent and meaningful naming of files and folders can make everyone’s life easier. See this example below:
 
-> YYYYMMDD__SiteA_SensorB.csv
-> Date__Location_Sensor.extension
+> YYYYMMDD\_\_SiteA\_SensorB.csv
+> Date\_\_Location\_Sensor.extension
 
 Applied
 
