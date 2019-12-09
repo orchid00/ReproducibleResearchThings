@@ -46,4 +46,6 @@ written in markdown, for use by others. The original material can be found here:
 ## Short URL
 [https://shorturl.at/pzMX3](https://shorturl.at/pzMX3)
 
+[MQ resources data storage options](https://github.com/orchid00/ReproducibleResearchThings/blob/gh-pages/_includes/mqresources.md)
+
 [lesson-example]: https://carpentries.github.io/lesson-example
