@@ -88,7 +88,7 @@ Source: [Upturned Microscope](https://theupturnedmicroscope.com/comic/real-vs-mo
 
 ---
 
-## Step1 
+## Step 1 
 ## Documentation
 
 ---
@@ -169,7 +169,7 @@ Now that you've got a good head start, time to learn about [Git Repositories](ht
 
 ---
 
-## Step2
+## Step 2
 ## Naming Conventions
 
 --- 
@@ -545,7 +545,7 @@ Source: PHDcomics
 
 ---
 
-## Step6
+## Step 6
 ## Cloud Backup
 
 --- 
