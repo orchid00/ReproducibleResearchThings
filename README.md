@@ -44,7 +44,7 @@ written in markdown, for use by others. The original material can be found here:
 * [Slides by Paula](https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1)
 
 ## Short URL
-[https://shorturl.at/pzMX3](https://shorturl.at/pzMX3)
+[https://shorturl.at/hklB5](https://shorturl.at/hklB5)
 
 [MQ resources data storage options](https://github.com/orchid00/ReproducibleResearchThings/blob/gh-pages/_includes/mqresources.md)
 
