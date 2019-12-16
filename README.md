@@ -41,11 +41,12 @@ written in markdown, for use by others. The original material can be found here:
 
 ## New Materials
 
-* [Slides by Paula](https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1)
+* Slides by Paula [https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1](https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1)
 
-## Short URL
-[https://shorturl.at/hklB5](https://shorturl.at/hklB5)
+## Institution specific resources
 
 [MQ resources data storage options](https://github.com/orchid00/ReproducibleResearchThings/blob/gh-pages/_includes/mqresources.md)
+
+*Last updated 2019-12-16*
 
 [lesson-example]: https://carpentries.github.io/lesson-example
